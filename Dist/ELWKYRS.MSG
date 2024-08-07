@@ -1,0 +1,232 @@
+
+ Kyrandia Player Editor.
+
+LEVEL6 {Elwynor Technologies: Kyrandia Player Editor}
+
+KINUSE {***
+Sorry, but only one person can be in the Kyrandia Player Editor at a time.
+Try again later!
+} T Kyrandia Sysop text
+
+
+KYREDT {
+Kyrandia User Account Editor
+----------------------------
+
+Enter Player-ID to edit: } T Kyrandia Sysop text
+
+
+NOSUCH {
+Sorry, but that Player-ID does not have a game account.
+} T Kyrandia Sysop text
+
+
+KYRMNU {[0m
+
+     Now Editing : %s
+
+ [E] Edit this account
+ [A] Abort and Exit
+ [X] Save and Exit
+
+ Select an option: } T Kyrandia Sysop text
+
+
+BADCHO {
+Sorry, but that is not one of the available options.
+} T Kyrandia Sysop text
+
+
+KYRAC1 {[0m
+     Player-ID: %s
+
+[01] Altnam/Attnam     : %s/%s
+[02] Current Level     : %d
+[03] Current Location  : %d - %s
+[04] Gold on hand      : %u
+[05] Spell Points Left : %d
+[06] Hit Points Left   : %d
+[07] Spouse's Name     : %s
+[08] Objects Held      : %d
+[09] Spells Info       : <separate display>
+} T Kyrandia Sysop text
+
+
+KYRAC2 {
+[10] CINVIS - %3d     [11] FIRPRO - %3d     [12] ICEPRO - %3d
+[13] LIGPRO - %3d     [14] OBJPRO - %3d     [15] ALTNAM - %3d
+
+Objects Held
+------------
+} T Kyrandia Sysop text
+
+
+KYRAC3 {
+[22] Birthstone Index  : %d - %s - %s - %s - %s
+[23] Tree Stump Index  : %d
+} T Kyrandia Sysop text
+
+
+CHGWCH {
+Select the item number to change (1-23): } T Kyrandia Sysop text
+
+
+EDT001 {[0m
+Valid Alternate Names are:
+
+[1] Player-ID
+[2] "Some Unseen Force"/"Unseen Force"
+[3] "Some pegasus"/"pegasus"
+[4] "Some pseudo dragon"/"pseudo dragon"
+[5] "Some willowisp"/"willowisp"
+
+Select an option (1-5): } T Kyrandia Sysop text
+
+
+EDT002 {
+Enter new level (1-25): } T Kyrandia Sysop text
+
+
+EDT003 {
+Enter new location number (0-304): } T Kyrandia Sysop text
+
+
+EDT004 {[0m
+Enter gold on hand (0-32766): } T Kyrandia Sysop text
+
+
+EDT005 {
+Enter remaining spell points (level dependant): } T Kyrandia Sysop text
+
+
+EDT006 {
+Enter remaining hit points (level dependant): } T Kyrandia Sysop text
+
+
+EDT007 {
+Enter new spouse name, 'X' to clear, or press ENTER to keep current
+spouse: } T Kyrandia Sysop text
+
+} T Kyrandia Sysop text
+
+EDT008 {
+Enter maximum number of objects that a player may hold
+at one time (0-6): } T Kyrandia Sysop text
+
+
+EDT009 {
+} T Kyrandia Sysop text
+
+
+EDT010 {
+You can set the time remaining for seeing invisible players in
+15-second intervals (1=15 secs, 2=30 secs, 3=45 secs,
+120=1800 secs, 240=3600 secs).
+
+Enter a number (1-240): } T Kyrandia Sysop text
+
+
+EDT011 {
+You can set the time remaining for fire protection in
+15-second intervals (1=15 secs, 2=30 secs, 3=45 secs,
+120=1800 secs, 240=3600 secs).
+
+Enter a number (1-240): } T Kyrandia Sysop text
+
+
+EDT012 {
+You can set the time remaining for ice protection in
+15-second intervals (1=15 secs, 2=30 secs, 3=45 secs,
+120=1800 secs, 240=3600 secs).
+
+Enter a number (1-240): } T Kyrandia Sysop text
+
+
+EDT013 {
+You can set the time remaining for lightning protection
+in 15-second intervals (1=15 secs, 2=30 secs, 3=45 secs,
+120=1800 secs, 240=3600 secs).
+
+Enter a number (1-240): } T Kyrandia Sysop text
+
+
+EDT014 {
+You can set the time remaining for object or other protection
+in 15-second intervals (1=15 secs, 2=30 secs, 3=45 secs,
+120=1800 secs, 240=3600 secs).
+
+Enter a number (1-240): } T Kyrandia Sysop text
+
+
+EDT015 {[0m
+You can set the time remaining for alternate identity
+in 15-second intervals (1=15 secs, 2=30 secs, 3=45 secs,
+120=1800 secs, 240=3600 secs).  The alternate identity must
+be set in option Altnam/Attnam.
+
+Enter a number (1-240): } T Kyrandia Sysop text
+
+
+EDT016 {
+Enter item for position #0: } T Kyrandia Sysop text
+
+
+EDT017 {
+Enter item for position #1: } T Kyrandia Sysop text
+
+
+EDT018 {
+Enter item for position #2: } T Kyrandia Sysop text
+
+
+EDT019 {
+Enter item for position #3: } T Kyrandia Sysop text
+
+
+EDT020 {
+Enter item for position #4: } T Kyrandia Sysop text
+
+
+EDT021 {
+Enter item for position #5: } T Kyrandia Sysop text
+
+
+EDT022 {[0m
+Enter Birthstone index (0-4): } T Kyrandia Sysop text
+
+
+EDT023 {[0m
+Enter Tree Stump index (0-12): } T Kyrandia Sysop text
+
+
+KSPLS0 {
+Selecting a spell that is set to "Y" will toggle it to "N".
+} T Kyrandia Sysop text
+
+
+MODSPL {
+Enter spell number to modify (1-67): } T Kyrandia Sysop text
+
+
+NOSOBJ {
+No such object!
+} T Kyrandia Sysop text
+
+
+OBJLST {[%2d] %-12.12s      } T Kyrandia Sysop text
+
+
+SPLLST {[%02d]%-6.6s - %c  } T Kyrandia Sysop text
+
+
+RECUPD {
+Record updated!
+} T Kyrandia Sysop text
+
+
+RECNPD {
+Record not updated!
+} T Kyrandia Sysop text
+
+ÿ
+

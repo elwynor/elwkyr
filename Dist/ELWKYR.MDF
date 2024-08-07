@@ -1,0 +1,29 @@
+; ELWKYR.MDF
+
+Module name: Kyrandia (Fantasy-world)
+
+
+Developer: Elwynor Technologies
+
+Requires:
+Replaces:
+
+Install:
+
+Online user manual: ELWKYR.USR
+
+DLLs: ELWKYR
+MSGs: ELWKYRM ELWKYRL ELWKYRS 
+
+Btrieve files:     1
+
+Cleanup:
+
+Event-1:
+Event-2:
+Event-3:
+Event-4:
+
+Add-On Utility:
+
+I need:

@@ -1,0 +1,6 @@
+; Filename: ELWKYR_EXP.DEF
+LIBRARY ELWKYR.DLL
+; *** Visual Studio 2019 EXPORT ALIASES ONLY ***
+; Module Description Here - Copyright (c) Skynet, Inc.
+EXPORTS
+	_init__elwkyr=init__elwkyr	@1

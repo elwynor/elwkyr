@@ -1,0 +1,5 @@
+record=228 variable=n key=2 page=4096
+
+position=1 length=30 duplicates=n modifiable=n type=Zstring alternate=y null=n segment=n
+position=31 length=10 duplicates=n modifiable=n type=Zstring alternate=n null=n segment=n
+name=galcaps.alt

@@ -1,0 +1,48 @@
+
+    KYRANDIA
+    --------
+
+    KYRANDIA is a multi-player interactive game, where many people at once
+    can be adventuring with each other in the SAME simulated adventure
+    world.  Players can help one another, engage in battle, trade
+    information, or just "shoot the breeze" -- true interaction.
+
+    To move about in KYRANDIA, merely type the direction you wish your
+    character to go (north, south, east or west).  To talk with other
+    players, simply put a verb of speaking before what you want said (i.e.
+    "say hello there!").  You may pick up objects and do things with them.
+    You can "look" at your current surroundings or other players.  Almost
+    any mundane action you can think of can be performed.
+
+    However, the world of KYRANDIA is much, much more.  The underlying
+    theme of the entire game is the use of magic.  Similar in concept to
+    the popular role-playing game "Dungeons & Dragons", players are
+    "magic-users" who start at "level 1" (Apprentice) and advance
+    themselves to higher "levels" and more powerful magic.
+
+    Although you must be the one to discover all the details (and many
+    there are) of the magic of KYRANDIA, we'll give you a little help to
+    start off with.
+
+    Spells are magic cast by players, sometimes at objects or other
+    players.  To cast a spell a player must first have it "memorized".
+    He/she must also have enough "spell points" to cast it, and must be of
+    high enough level for certain spells.  Also, some spells require the
+    player to have certain components (objects) to cast them.  To actually
+    cast the spell, a player must type "cast" and then the secret
+    incantation of the spell to be cast; sometimes, a direct object must be
+    included as well, such as "at the elf".
+
+    The physical strength and endurance of a player is determined by
+    his/her "hit points".  A player's "hit points" increase as he/she gains
+    "levels" or by magical means.  It is through "hit points" that most
+    players battle each other; when a player's "hit points" reach 0, he/she
+    is killed, and must start from scratch at the beginning again.
+
+    Once you select KYRANDIA from the main menuing system, you can see what
+    spells you have memorized and how many spell points you have by typing
+    "spells".  To see how many hit points you have you can, type "hits".
+    To see what objects you are holding, you can type "inv".  And if you
+    need it, you can always type "help" for more information.
+
+
